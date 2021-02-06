@@ -1,1 +1,1 @@
-This is a user interactive simulation that allows one to choose whether they want to buy a car or a bike. Once chooses either one, they will be shown a list of either bikes or cars, which ever they user has chosen. Once they have made their decision, the price of the car will be shown!
+This is a user interactive simulation that allows one to choose whether they want to buy a car or a bike. The user has the option of car or bike, which they will be shown a list of either depending on the user choose. Once they have made their decision, the price of the car will be shown!
